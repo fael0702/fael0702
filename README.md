@@ -34,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fael0702/fael0702/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fael0702/fael0702/output/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [fael0702/snk](https://github.com/fael0702/snk)_
